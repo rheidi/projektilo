@@ -34,7 +34,7 @@ const anecdotes = [
   'Purkaminen on opintojen äiti.',
   'Seuraa kuin neuloja lanka-alennuksia.',
   'Nyt on langat vähissä.',
-  'Ei ole nauleita silmukoihin katsominen.',
+  'Ei ole neuleita silmukoihin katsominen.',
   'Ei virkkuukoukku kauas sohvasta putoa.',
   'Pyörivä kerä ei sammaloidu.',
   'Jos kahvi, suklaa ja käsityöt ei auta, niin tauti on kuolemaksi.',
